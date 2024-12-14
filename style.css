@@ -29,7 +29,7 @@ függőlegesen és vízszintesen is középre igazított flexbox elem
 	justify-content: center
 }
 .wrapper .content {
-	background: url('../pics/bg-box.png');
+	background: url('assets/bg-box.png');
 	box-shadow: 0 0 100px rgba(255,255,255,.8);
 	width: 600px;
 	height: 400px;
@@ -79,7 +79,7 @@ függőlegesen és vízszintesen is középre igazított flexbox elem
 	bottom: 50px;
 	left: -500px;
 	position: absolute;
-	background: url('../pics/nike1.png');
+	background: url('assets/nike1.png');
 	animation-name: shoe1;
 	animation-duration: 5s;
 }
@@ -102,7 +102,7 @@ függőlegesen és vízszintesen is középre igazított flexbox elem
 	bottom: 50px;
 	left: -500px;
 	position: absolute;
-	background: url('../pics/nike2.png');
+	background: url('assets/nike2.png');
 	animation-name: shoe2;
 	animation-duration: 5s;
 	animation-delay: 5s
