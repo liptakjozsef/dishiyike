@@ -79,7 +79,7 @@ függőlegesen és vízszintesen is középre igazított flexbox elem
 	bottom: 50px;
 	left: -500px;
 	position: absolute;
-	background: url('assets/nike3.png');
+	background: url('assets/nike2.png');
 	animation-name: shoe1;
 	animation-duration: 5s;
 }
@@ -102,7 +102,7 @@ függőlegesen és vízszintesen is középre igazított flexbox elem
 	bottom: 50px;
 	left: -500px;
 	position: absolute;
-	background: url('assets/pipacs.png');
+	background: url('assets/nike3.png');
 	animation-name: shoe2;
 	animation-duration: 5s;
 	animation-delay: 5s
