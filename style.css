@@ -79,9 +79,9 @@ függőlegesen és vízszintesen is középre igazított flexbox elem
 	bottom: 50px;
 	left: -500px;
 	position: absolute;
-	background: url('assets/nike2.png');
+	background: url('assets/kari.png');
 	animation-name: shoe1;
-	animation-duration: 5s;
+	animation-duration: 4s;
 }
 @keyframes shoe1 {
 	0% { left: -500px; }
@@ -104,8 +104,8 @@ függőlegesen és vízszintesen is középre igazított flexbox elem
 	position: absolute;
 	background: url('assets/nike3.png');
 	animation-name: shoe2;
-	animation-duration: 5s;
-	animation-delay: 5s
+	animation-duration: 4s;
+	animation-delay: 4s
 }
 @keyframes shoe2 {
 	0% { left: -500px; }
