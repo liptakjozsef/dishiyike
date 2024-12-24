@@ -54,7 +54,7 @@ függőlegesen és vízszintesen is középre igazított flexbox elem
 	animation-name: title;
 
 	/* animáció hossza */
-	animation-duration: 9s;
+	animation-duration: 8s;
 
 	/* animáció lejárata után hova álljon a lejátszófej */
 	animation-fill-mode: forwards;
