@@ -102,7 +102,7 @@ függőlegesen és vízszintesen is középre igazított flexbox elem
 	bottom: 50px;
 	left: -500px;
 	position: absolute;
-	background: url('assets/kápolna.jpg');
+	background: url('assets/kígyós.jpg');
 	animation-name: shoe2;
 	animation-duration: 4s;
 	animation-delay: 4s
