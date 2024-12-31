@@ -135,7 +135,7 @@ függőlegesen és vízszintesen is középre igazított flexbox elem
 	animation-fill-mode: forwards;
 	shorthand megadás:
 	*/
-	animation: buy 3s 7s forwards, pulse 2s 10s infinite;
+	animation: buy 4s 8s forwards, pulse 2s 10s infinite;
 	/* vesszővel elválasztva két animációt is rátehetünk egy elemre */
 }
 
