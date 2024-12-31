@@ -54,7 +54,7 @@ függőlegesen és vízszintesen is középre igazított flexbox elem
 	animation-name: title;
 
 	/* animáció hossza */
-	animation-duration: 8s;
+	animation-duration: 10s;
 
 	/* animáció lejárata után hova álljon a lejátszófej */
 	animation-fill-mode: forwards;
@@ -81,7 +81,7 @@ függőlegesen és vízszintesen is középre igazított flexbox elem
 	position: absolute;
 	background: url('assets/2025.jpg');
 	animation-name: shoe1;
-	animation-duration: 4s;
+	animation-duration: 5s;
 }
 @keyframes shoe1 {
 	0% { left: -500px; }
@@ -104,8 +104,8 @@ függőlegesen és vízszintesen is középre igazított flexbox elem
 	position: absolute;
 	background: url('assets/Nyárád.jpg');
 	animation-name: shoe2;
-	animation-duration: 2s;
-	animation-delay: 2s
+	animation-duration: 4s;
+	animation-delay: 4s
 }
 @keyframes shoe2 {
 	0% { left: -500px; }
@@ -135,7 +135,7 @@ függőlegesen és vízszintesen is középre igazított flexbox elem
 	animation-fill-mode: forwards;
 	shorthand megadás:
 	*/
-	animation: buy 4s 8s forwards, pulse 2s 10s infinite;
+	animation: buy 5s 10s forwards, pulse 2s 10s infinite;
 	/* vesszővel elválasztva két animációt is rátehetünk egy elemre */
 }
 
